@@ -1,10 +1,10 @@
 Instructions
 ------------
-Unzip "Snake.zip"
-Open the "Snake" folder in WPILib VS Code
+Download these files
+Open the folder in WPILib VS Code
 Hit F1 & click "Simulate"
 Select "Sim GUI" and click "Ok"
-Drag & drop "Keyboard 0" or a controller to "Joystick[0]"
+Drag & drop "Keyboard 0" or a controller to Joystic -> Joystick[0]
 Hit Teleoperated
 
 Open Elastic Dashboard
