@@ -109,7 +109,7 @@ public class Game extends SubsystemBase {
   }
   
   public void checkCollision(int[][] board) {
-    if ((headX < 0 || headX >= width || headY < 0 || headY >= height - 1) || board[headY][headX] == 1) {
+    if ((headX < 0 || headX >= width || headY < 0 || headY >= height) || board[headY][headX] == 1) {
       reset();
     }
   }
