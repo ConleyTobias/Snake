@@ -1,8 +1,8 @@
 Instructions
 ------------
 Download these files
-Open the folder in WPILib VS Code
-Hit F1 & click "Simulate"
+Open "Snake-main -> Snake-main" in WPILib VS Code
+Hit F1 & click "Simulate Robot Code"
 Select "Sim GUI" and click "Ok"
 Drag & drop "Keyboard 0" or a controller to Joystic -> Joystick[0]
 Hit Teleoperated
